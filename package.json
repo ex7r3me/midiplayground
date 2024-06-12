@@ -1,0 +1,14 @@
+{
+  "name": "mini-midi-game",
+  "version": "1.0.0",
+  "description": "A mini MIDI game using Novation Launchpad X",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
