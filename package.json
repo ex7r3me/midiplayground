@@ -4,11 +4,15 @@
   "description": "A mini MIDI game using Novation Launchpad X",
   "main": "index.html",
   "scripts": {
+    "dev": "nodemon",
     "start": "http-server"
   },
-  "author": "Your Name",
+  "author": "ex7r3me",
   "license": "ISC",
   "dependencies": {
     "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
   }
 }
